@@ -1,5 +1,5 @@
 # reassist
-En un contexto donde la indigencia crece de manera alarmante, este proyecto nace con el propósito de ser una herramienta al servicio de aquellas organizaciones y voluntarios que trabajan para asistir y acompañar a quienes más lo necesitan. Más allá de brindar asistencia inmediata, buscamos fortalecer la capacidad de generar reportes organizados que permitan identificar necesidades específicas, trazar estrategias efectivas y, sobre todo, promover la inclusión y la dignidad de las personas atravesando está situación.
+En un contexto donde la indigencia crece de manera alarmante, este proyecto nace con el **propósito** de ser una herramienta al servicio de aquellas organizaciones y voluntarios que trabajan para asistir y acompañar a quienes más lo necesitan. Más allá de brindar asistencia inmediata, buscamos fortalecer la capacidad de generar reportes organizados que permitan identificar necesidades específicas, trazar estrategias efectivas y, sobre todo, promover la inclusión y la dignidad de las personas atravesando está situación.
 
 
 ## Capacidades
@@ -11,7 +11,7 @@ El sistema permite:
 
 Creemos que, al visibilizar estas historias y ofrecer un registro claro y accesible, podemos construir redes de apoyo más fuertes y reducir las brechas de exclusión.
 
-> Para acceder a más información sobre el circuito de desarrollo, haz click en el enlace o visita el archivo homónimo ubicado dentro del directorio docs/circuito_de_desarrollo 
+> Para acceder a más información sobre el circuito de desarrollo, haz click en el enlace o visita el archivo homónimo ubicado dentro del directorio docs/development_circuit 
 
 
 ## Contexto y Motivación
