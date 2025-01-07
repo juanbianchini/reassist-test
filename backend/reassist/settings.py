@@ -30,7 +30,8 @@ INSTALLED_APPS = [
     'rest_framework', # Library - DRF package
     'django_filters', # Library - for adding advanced filtering capabilities to Django views
     'individuals', # App
-    'assistances',
+    'assistances', # App
+    'chatbot', # App
 ]
 
 MIDDLEWARE = [
@@ -69,8 +70,12 @@ WSGI_APPLICATION = 'reassist.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',  # Change this line
+        'NAME': 'reassist_database',
+        'USER': 'postgres',
+        'PASSWORD': 'Juancho1299.',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
 

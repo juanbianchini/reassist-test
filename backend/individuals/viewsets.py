@@ -16,6 +16,6 @@ class IndividualViewSet(viewsets.ModelViewSet):
     @action(detail=True, methods=['get'])
     def assistance_history(self, request, pk=None):
         individual = self.get_object()
-        assistance_records = individual.assistance_records.all()  
-        serializer = AssistanceSerializer(assistance_records, many=True)
+        assistances = individual.assistances.all()  
+        serializer = AssistanceSerializer(assistances, many=True)
         return Response(serializer.data)

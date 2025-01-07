@@ -1,0 +1,2 @@
+from assistances.serializers import AssistanceSerializer
+from individuals.serializers import IndividualSerializer 
