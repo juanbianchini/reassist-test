@@ -1,5 +1,5 @@
 # reassist
-En un contexto donde la indigencia crece de manera alarmante, este proyecto nace con el **propósito** de ser una herramienta al servicio de aquellas organizaciones y voluntarios que trabajan para asistir y acompañar a quienes más lo necesitan. Más allá de brindar asistencia inmediata, buscamos fortalecer la capacidad de generar reportes organizados que permitan identificar necesidades específicas, trazar estrategias efectivas y, sobre todo, promover la inclusión y la dignidad de las personas atravesando está situación.
+Este proyecto nace con el **propósito** de ser una herramienta al servicio de aquellas organizaciones y voluntarios que trabajan para asistir y acompañar a quienes más lo necesitan. Más allá de brindar asistencia inmediata, buscamos fortalecer la capacidad de generar reportes organizados que permitan identificar necesidades específicas, trazar estrategias efectivas y, sobre todo, promover la inclusión y la dignidad de las personas atravesando está situación.
 
 
 ## Capacidades
